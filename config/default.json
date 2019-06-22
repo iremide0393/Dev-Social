@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ire_0393:september1993@devsocial-yproi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "079424fa9ea83bfccab9",
+  "githubSecret": "bff14d5b760f909f6fc9009d991a2725c25accdc"
+}
